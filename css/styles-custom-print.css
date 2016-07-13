@@ -1,0 +1,29 @@
+/*Header*/
+
+body {
+	font-family: Gill Sans MT, Tahoma, sans-serif;
+	color: black;
+	margin: 3em;
+}
+
+button {
+	background: #1f295c;
+	padding: 1em;
+	margin-bottom: -1em;
+}
+
+button a {
+	color: #fff; 
+	text-decoration: none;
+}
+
+.button {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+footer {
+	font-size: .85em;
+	border-top: 1px solid black;
+	margin-top: 4em;
+}
